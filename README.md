@@ -2,11 +2,11 @@
 
 <img src='./img/EODataViz_Banner.png' align='centre' width='100%'></img>
 
-Welcome to the Earth Observation Data Visualisation series. This repository will act as a place to collect examples of Earth observation data visualisation generated and/or shown throughout the webinars. It will continue to grow and evolve as the webinar series proceeds and will eventually also host the source material for our "best practice guide".
+Welcome to the Earth Observation Data Visualisation series. This repository will act as a place to collect examples of Earth observation data visualisation generated and/or shown throughout the webinars. It will continue to grow and evolve as the webinar series proceeds and will eventually link to the source material for our "best practice guide".
 
 ## Contents
 
-This repository contains **both** the presentations provided throughout the webinar series and the best practice guide. The best practice guide is embedded as a *git submodule*, and so can be cloned separately if required.
+This repository contains **both** the presentations provided throughout the webinar series and the best practice guide. The best practice guide is embedded as a *git submodule*, and so can be cloned separately if required. Please note that the best practice guide is shared under a CC BY 4.0 license, while the content linked below is protected by CC BY-ND 4.0.
 
 * Presentations:
   * [Week 1: Introduction to EO Data Visualisation](presentations/week_01_Introduction_to_EO_Data_Visualisation)
