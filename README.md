@@ -10,12 +10,13 @@ This repository contains **both** the presentations provided throughout the webi
 
 * Presentations:
   * [Week 1: Introduction to EO Data Visualisation](presentations/week_01_Introduction_to_EO_Data_Visualisation)
-  * [Week 2: Air Quality and Wildfires](https://link-url-here.org)
-  * [Week 3: Oceans and Sea Ice](https://link-url-here.org)
-  * [Week 4: Climate and Weather](https://link-url-here.org)
-  * [Week 5: Climate Extremes: heatwaves, changes in ice and drought](https://link-url-here.org)
-  * [Week 6: Being Practical: How to access and process Copernicus and EUMETSAT data](https://link-url-here.org)
-* Best practice guide:
+  * [Week 2: Air Quality and Wildfires](presentations/week_02_Air_Quality_and_Wildfires)
+  * [Week 3: Oceans and Sea Ice](presentations/week_03_Oceans_and_Sea_Ice)
+  * [Week 4: Climate and Weather](presentations/week_04_Climate_and_Weather)
+  * [Week 5: Climate Extremes: heatwaves, changes in ice and drought](presentations/week_05_Climate_Extremes)
+  * [Week 6: Being Practical: How to access and process Copernicus and EUMETSAT data](presentations/week_06_Being_Practical)
+* [Best practice guide](https://github.com/wekeo/eo-data-vis-best-practice-guide)
 
 ## Contacts
+
 For questions, please contact [ops@eumetsat.int](ops@eumetsat.int)
