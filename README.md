@@ -1,4 +1,4 @@
-# Earth Observation Data Visualisation
+# Earth Observation Data Visualisation workshop series
 
 <img src='./img/EODataViz_Banner.png' align='centre' width='100%'></img>
 
