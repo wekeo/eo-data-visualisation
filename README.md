@@ -9,7 +9,7 @@ Welcome to the Earth Observation Data Visualisation series. This repository will
 This repository contains **both** the presentations provided throughout the webinar series and the best practice guide. The best practice guide is embedded as a *git submodule*, and so can be cloned separately if required.
 
 * Presentations:
-  * [Week 1: Introduction to EO Data Visualisation](https://link-url-here.org)
+  * [Week 1: Introduction to EO Data Visualisation](presentations/week_01_Introduction_to_EO_Data_Visualisation)
   * [Week 2: Air Quality and Wildfires](https://link-url-here.org)
   * [Week 3: Oceans and Sea Ice](https://link-url-here.org)
   * [Week 4: Climate and Weather](https://link-url-here.org)
