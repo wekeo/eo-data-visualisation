@@ -1,14 +1,13 @@
 # Copyright holder
-copyright: creative commons
+copyright: CC-BY-ND 4.0 (2023)
 license: LICENSE.txt
 
 # List of development authors
 Ben Loveday (Innoflair UG / EUMETSAT)
 Hayley Evers-King (EUMETSAT)
-...
 
 # List of contributory authors
-...
+...to be completed...
 
 # Support
 For all queries on this software package, please contact ops@eumetsat.int
