@@ -1,0 +1,3 @@
+[submodule "eo-data-vis-good-practice-guide"]
+	path = eo-data-vis-good-practice-guide
+	url = https://github.com/wekeo/eo-data-vis-good-practice-guide.git
